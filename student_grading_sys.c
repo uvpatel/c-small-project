@@ -44,7 +44,7 @@ int main()
         if (mathMarks <33 && phyMarks <33 && chemMarks<33
         )
         {
-            /* code */
+            printf("In one subject you are fail")
         }
         
     } 
